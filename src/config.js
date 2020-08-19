@@ -6,8 +6,8 @@ module.exports = {
     'Rishabh Kharbanda, Rishabh, Kharbanda, techie448, software engineer, front-end engineer, back-end engineer, web developer, javascript, full stack developer',
   siteUrl: 'https://github.com/techie448',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-175795169-1',
+  googleVerification: '4MvVRXF8cIXzruAr5mPa1pCPEkva7BeElOkCSisduh0',
   name: 'Rishabh Kharbanda',
   location: 'Canada',
   email: 'kharbanda.rishabh7@gmail.com',
@@ -24,15 +24,11 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/techie448',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/rishabh_kharbanda/',
     },
   ],
 

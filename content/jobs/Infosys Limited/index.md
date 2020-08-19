@@ -1,5 +1,5 @@
 ---
-date: '2019-04-26'
+date: '2019-04-25'
 title: 'System Engineer'
 company: 'Infosys Limited'
 location: 'Bengaluru, IN'

@@ -1,87 +1,86 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/techie448/techie448/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  rishabhkharbanda.netlify.app
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/rishabhkharbanda/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/4c759f20-aa89-44ec-8b11-34fb436f1d4a/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/techie448/techie448/master/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+**Rishabh Kharbanda**
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Software Engineer | Full Stack Developer
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+Kitchener, ON Canada | P: +1 548-333-7750 | kharbanda.rishabh7@gmail.com
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+[https://www.linkedin.com/in/rishabh-kharbanda/](https://www.linkedin.com/in/rishabh-kharbanda/)
 
-### TL;DR
+**SUMMARY**
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+I am a keen learner, Graduated from Conestoga College in Aug 2020, I’ve completed my Post Graduation in Web Design and Development actively looking for opportunities.
 
-## 🛠 Installation & Set Up
+Previously I’ve completed my Bachelors of Engineering in Computer Sciences and professionally worked as a Software Engineer for 2 years.
 
-1. Install the Gatsby CLI
+**PORTFOLIO**
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+[**COVID-19 Dashboard**](https://coronavirus-dash.web.app/) **— React/D3.js Web Application**
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+_Frontend Project using Public API_
 
-   ```sh
-   nvm install
-   ```
+- COVID-19 Dashboard built in React and D3.js using a public API.
+- The project features a race chart, historical data and geographical representations.
+- Technologies Used -
+  - React.js, D3.js as frontend javascript technologies.
+  - SASS with CSS Grid and Flexbox for styling.
+  - Github, Github Pages, Firebase Hosting for Deployment.
 
-3. Install dependencies
+[**The Job Hunt**](https://thejobhunt.web.app/) **— Angular/Firebase Web Application**
 
-   ```sh
-   yarn
-   ```
+_Full Stack Project_
 
-4. Start the development server
+- The Job Hunt is a platform which collects data from various Job Search platforms such as Linkedin Jobs, Indeed, Glassdoor etc, perform vigorous algorithms to filter out the best opportunities and collate them together for young professionals of Canada looking to thrive in the field of technology..
+- Technologies Used -
+  - Angular 9 as frontend technology.
+  - Algolia for front end search
+  - Github, Github Pages, Firebase Hosting for Deployment.
+  - Node, Cheerios for web scraping, data modeling and backend services.
+  - CRON, Heroku for Node worker automation and deployment.
 
-   ```sh
-   npm start
-   ```
+[**Squeeze Now**](https://squeeze.now.sh/) **— Vue/MongoDB Web Application + API**
 
-## 🚀 Building and Running for Production
+_Serverless Cloud Functions Project_
 
-1. Generate a full static production build
+- Squeeze now is a utility which helps shorten URLs to a smaller length with duplicate checks, custom or auto-generated slugs available.
+- The project uses Vercel Serverless Node Cloud Functions to operate and a static Vue.js application to handle API requests for the frontend.
+- The project also hosts an API with public access for anyone to use or build upon a front-end application.
+- URL Shorteners in general help reduce URL length and can also be a good resource to memorise small domain shortcuts.
+- Technologies Used -
+  - Vue.js as frontend technology.
+  - Github, Vercel, Vercel Cloud Functions for Deployment.
+  - Node serverless functions for backend services.
+  - MongoDB, Monk, Yup used for NoSQL database and schema validations.
 
-   ```sh
-   npm run build
-   ```
+**ADDITIONAL**
 
-1. Preview the site as it will appear once deployed
+**Technical Skills** :
 
-   ```sh
-   npm run serve
-   ```
+- Core Java, J2EE, Hibernate, Spring, restAPI, Data Structures and Algorithms, Oracle, DB2, Sybase IQ, MySQL, Unix CLI, Bash, shell scripting, host management
+- Angular.js, React.js, React Hooks, Vue.js, JQuery, Vanilla Javascript, ES6, D3.js, Node.js, Express.js, MongoDB, Firebase,Web Scraping, Cheerio.js, Puppeteer.js, Vercel, Heroku, Github Pages, Google Cloud Hosting, HTML5, CSS, Bootstrap, Material UI, Bulma, SCSS
+- Python and Django Framework [self experienced]
 
-## 🎨 Color Reference
+**Technical Languages:** Java, Javascript, Python
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#172a45](https://via.placeholder.com/10/0a192f?text=+) `#172a45` |
-| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#303C55` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+**Skills:** Keen Learner, Strong Analytical Thinking, Team Management, Detail Oriented, Self Motivated
+
+## Connect
+
+ <p><a href="https://www.linkedin.com/in/rishabh-kharbanda/"><img alt="LinkedIn Rishabh Kharbanda" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" />&nbsp;<small>Rishabh Kharbanda</small></a></p>
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/techie448/techie448/master/LICENSE)

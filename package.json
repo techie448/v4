@@ -1,14 +1,23 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "rishabhkharbanda",
+  "description": "Rishabh Kharbanda Portfolio Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Rishabh Kharbanda <kharbanda.rishabh7@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/techie448/techie448"
   },
   "keywords": [
-    "gatsby"
+    "Rishabh Kharbanda",
+    " Rishabh",
+    " Kharbanda",
+    " techie448",
+    " software engineer",
+    " front-end engineer",
+    " back-end engineer",
+    " web developer",
+    " javascript",
+    " full stack developer"
   ],
   "license": "MIT",
   "scripts": {

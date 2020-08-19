@@ -4,7 +4,7 @@ title: 'Software Engineer [Consultant]'
 company: 'Goldman Sachs'
 location: 'Bengaluru, IN'
 range: 'Sept 2017 – Apr 2019'
-url: 'https://goldmansachs.com/'
+url: 'https://www.goldmansachs.com/'
 ---
 
 Java Developer, Trade Reporting Gateway
