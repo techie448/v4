@@ -74,7 +74,7 @@ const StyledTechList = styled.ul`
   padding: 0;
   margin: 25px 0 10px;
   list-style: none;
-
+  width: 90%;
   li {
     font-family: ${fonts.SFMono};
     font-size: ${fontSizes.smish};
@@ -183,6 +183,8 @@ const StyledProject = styled.div`
     }
     ${StyledTechList} {
       justify-content: flex-end;
+      margin-left: auto;
+      margin-right: 0;
       li {
         margin-left: ${theme.margin};
         margin-right: 0;
@@ -222,12 +224,12 @@ const Featured = ({ data }) => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
+            const { external, title, tech, github, cover, label } = frontmatter;
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
+                  <StyledLabel>{label}</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a

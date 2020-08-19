@@ -50,9 +50,8 @@ const Skill = styled.li`
 const StyledPic = styled.div`
   position: relative;
   width: 40%;
-  max-width: 300px;
   margin-left: 60px;
-  ${media.tablet`margin: 60px auto 0;`};
+  ${media.tablet`margin: 60px auto 0; width:60%;`};
   ${media.phablet`width: 70%;`};
   a {
     &:focus {
