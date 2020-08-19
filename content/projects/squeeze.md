@@ -1,9 +1,6 @@
 ---
-date: '1'
 title: 'Squeeze Now'
-cover: './squeeze.png'
 github: 'https://github.com/techie448/squeeze-now'
-label: ' Vue/MongoDB Serverless Cloud Functions Project + API'
 external: 'https://squeeze.now.sh/'
 tech:
   - Vue.js

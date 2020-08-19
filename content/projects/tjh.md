@@ -1,10 +1,7 @@
 ---
-date: '2'
 title: 'The Job Hunt'
-cover: './tjh.png'
 github: 'https://github.com/techie448/thejobhunt-api'
 external: 'https://thejobhunt.web.app/'
-label: 'Angular/Firebase/Algolia Web Scraping Full Stack Project'
 tech:
   - Angular 9
   - Algolia

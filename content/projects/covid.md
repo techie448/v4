@@ -1,8 +1,5 @@
 ---
-date: '3'
 title: 'COVID-19 Dashboard'
-cover: './covid.png'
-label: 'React/D3.js Web Application using Public API'
 github: 'https://github.com/techie448/covid19'
 external: 'https://coronavirus-dash.web.app'
 tech:
